@@ -10,6 +10,6 @@ public class Demo2Application {
 		SpringApplication.run(Demo2Application.class, args);
 	}
 	
-	 String s="Asmara  ";
+	 String s="Asmara  Eritrea";
 
 }
